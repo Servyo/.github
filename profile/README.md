@@ -1,4 +1,4 @@
-# 🍽️ Servyo
+# Servyo
 
 > **Order. Share. Pay. From your table.**
 
