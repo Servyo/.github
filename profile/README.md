@@ -1,6 +1,6 @@
 # 🍽️ Servyo
 
-> **Order. Share. Pay. Directly from your table.**
+> **Order. Share. Pay. From your table.**
 
 Servyo est une plateforme SaaS qui permet aux clients de commander et payer directement depuis leur table via QR code - sans attente, sans friction.
 
